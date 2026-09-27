@@ -1,0 +1,14 @@
+# NetBeans / Maven build output
+/target/
+*.class
+.netbeans/
+build/
+dist/
+nbproject/private/
+.idea/
+*.iml
+
+# Local secrets
+.env
+.env.*
+!.env.example
